@@ -1,0 +1,6 @@
+{
+  "name": "Ebû Dâvûd es-Sicistânî İnfografiği",
+  "description": "Ebû Dâvûd Süleyman b. el-Eş'as es-Sicistânî hakkında interaktif, yazdırılabilir ve tam kaynak metnine sadık tek sayfa infografik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
